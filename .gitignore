@@ -1,1 +1,3 @@
 *.csv
+model_results/
+.DS_Store
